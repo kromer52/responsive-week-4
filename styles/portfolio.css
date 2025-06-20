@@ -27,7 +27,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -186,7 +186,7 @@ footer .social-links a:hover {
   .hero {
     padding: 80px 20px;
   }
-  .about-section {   
+  .content-section {   
     text-align: center;
     padding: 0;
   }
